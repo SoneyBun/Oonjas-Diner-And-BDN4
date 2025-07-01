@@ -3,6 +3,8 @@
 ---
 My teacher allowed us to use Roblox to create a game as part of our science project which allowed us to creatively present our understanding of DNA. I chose to make a virtual 3D DNA structure using the Roblox Studio platform rather than building a physical model like most students do. I made a double helix structure for the game that has labeled components such as base pairs nitrogenous bases and the sugar-phosphate backbone. Every component was color-coded for simple identification for instance cytosine and guanine and adenine and thymine were paired in particular colors.
 
+🔗 Play the game [here](https://www.roblox.com/games/15958019198/Bio-Science-Project).
+
 ---
 ![Biology](https://github.com/user-attachments/assets/9578ca7c-0723-48c0-966c-26889255ab5d)
 
